@@ -33,6 +33,7 @@ int calculateBill(int unit) {
     return amount;
 }
 
+
 int main() {
 char name[50];
 int choice, units,total;
